@@ -1,0 +1,2 @@
+# Apple-Leaf-Disease-Weather-Augmented-Classification
+Apple leaf disease classification system enhanced with weather metadata integration. This project builds a multimodal dataset by combining leaf images with environmental features to analyze correlations and improve prediction performance. Includes data preprocessing, weather API integration, dataset merging, visualization, and ML CSV generation.
