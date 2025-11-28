@@ -20,8 +20,4 @@ The goal is to explore whether integrating environmental factors improves diseas
 ✔ Provides label encoding  
 ✔ Supports future model training (CNN + Tabular fusion)
 
----
-
-## 📁 Folder Structure
-
 
